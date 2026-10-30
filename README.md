@@ -13,6 +13,14 @@ The application allows customers to request flight reservations through a multi-
 
 The project combines a customer-facing website with booking workflows, third-party integrations, and content management.
 
+
+## Booking Flow
+
+| Step 1 – Flight Selection | Step 2 – Passenger Details |
+|:---:|:---:|
+| <img src="booking-step-1.png" width="400" alt="Flight selection"/> | <img src="booking-step-2.png" width="400" alt="Passenger details"/> |
+
+
 ## My Role
 
 Freelance Full-Stack Developer
